@@ -11,9 +11,9 @@ You can try our demo data onto the Gas Price Prediction System here
 
 https://github.com/mekongsoft/gasprice-demo
 
-We deploy a Gas Price Prediction for 78 cities of Canada, including: Calgary, Edmonton,Vancouver, Montreal, Mississauga, Toronto, Ottawa and Regina, etc.
+We deploy a Gas Price Prediction for 77 cities of Canada, including: Calgary, Edmonton,Vancouver, Montreal, Mississauga, Toronto, Ottawa and Regina, etc.
 
-These are some of our prediction accuracy charts (total 78 charts) by comparing our predicted prices to the real prices from a one-month period between June 2023 and July 2023.
+These are some of our prediction accuracy charts (total 78 charts) by comparing our predicted prices to the real prices from a one-month period between April 2024 and May 2024.
 
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/CALGARY.png"/>
 
