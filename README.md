@@ -37,4 +37,8 @@ These are some of our prediction accuracy charts (total 78 charts) by comparing 
 
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/YELLOWKNIFE.png"/>
 
+This Repo is for Markerting Demo tasks.
+
+https://github.com/mekongsoft/gasprice-demo
+
 COPYRIGHT@2024 OF FOGHLAIM MEAISIN SOFTWARE, CALGARY, ALBERTA, CANADA.
