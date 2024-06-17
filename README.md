@@ -15,9 +15,15 @@ We deploy a Gas Price Prediction for 77 cities of Canada, including: Calgary, Ed
 
 # MLOps: MLflow and Databricks
 
+Each city's process is logged
+
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow1.png"/>
 
+Each city's RMSE metric is logged
+
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow2.png"/>
+
+Each city's H5 model and prediction are logged
 
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow3.png"/>
 
