@@ -13,6 +13,16 @@ https://github.com/mekongsoft/gasprice-demo
 
 We deploy a Gas Price Prediction for 77 cities of Canada, including: Calgary, Edmonton,Vancouver, Montreal, Mississauga, Toronto, Ottawa and Regina, etc.
 
+# MLOps: MLflow and Databricks
+
+<img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow1.png"/>
+
+<img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow2.png"/>
+
+<img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/MLflow3.png"/>
+
+# EDA 
+
 These are some of our prediction accuracy charts (total 78 charts) by comparing our predicted prices to the real prices from a one-month period between April 2024 and May 2024.
 
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/CALGARY.png"/>
