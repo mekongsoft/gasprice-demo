@@ -37,7 +37,7 @@ These are some of our prediction accuracy charts (total 78 charts) by comparing 
 
 <img src="https://github.com/mekongsoft/gasprice-demo/blob/main/marketing/YELLOWKNIFE.png"/>
 
-This Repo is for Markerting Demo tasks.
+This Repo is for Marketing Demo tasks.
 
 https://github.com/mekongsoft/gasprice-demo
 
